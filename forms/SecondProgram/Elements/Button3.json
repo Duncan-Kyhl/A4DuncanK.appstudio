@@ -28,8 +28,8 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "Button1",
-  "left": 23,
+  "id": "Button3",
+  "left": 191,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 400,
-  "value": "Undo Delete",
-  "width": "auto"
+  "top": 333,
+  "value": "Refresh List",
+  "width": 122
 }

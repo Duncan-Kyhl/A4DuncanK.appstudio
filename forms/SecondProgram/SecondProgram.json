@@ -54,6 +54,15 @@
         "Elements",
         "lblMessage2.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "SecondProgram",
+        "Elements",
+        "Button3.json"
+      ]
     }
   ],
   "class": "",

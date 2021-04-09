@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "Button2",
-  "left": 221,
+  "left": 21,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 399,
-  "value": "Button",
+  "top": 334,
+  "value": "Delete Employee",
   "width": "auto"
 }

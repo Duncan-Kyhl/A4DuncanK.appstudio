@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblMessage2",
   "labelStyle": "text",
-  "left": 25,
+  "left": 22,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 336,
+  "top": 265,
   "value": "Label",
   "width": 271
 }
