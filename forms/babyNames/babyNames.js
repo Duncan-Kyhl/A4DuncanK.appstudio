@@ -14,6 +14,7 @@ babyNames.onshow=function(){
 
 slctNames.onclick=function(){
   favorites.push(slctNames.text)
+  console.log(slctNames.txt)
 }
 
 btnFavBabyNames.onclick=function(){

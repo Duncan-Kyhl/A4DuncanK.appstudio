@@ -16,7 +16,43 @@
         "forms",
         "favBabyNames",
         "Elements",
-        "btn.json"
+        "btnFirstProgram.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favBabyNames",
+        "Elements",
+        "drpFavorites.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favBabyNames",
+        "Elements",
+        "lblDescription.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favBabyNames",
+        "Elements",
+        "lblFavoriteName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favBabyNames",
+        "Elements",
+        "imgBaby.json"
       ]
     }
   ],
@@ -34,7 +70,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "",
+  "onshow": "favBabyNames.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
