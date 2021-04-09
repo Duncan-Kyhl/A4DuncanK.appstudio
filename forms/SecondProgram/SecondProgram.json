@@ -34,7 +34,7 @@
         "forms",
         "SecondProgram",
         "Elements",
-        "Button1.json"
+        "btnUndoDelete.json"
       ]
     },
     {
@@ -43,7 +43,7 @@
         "forms",
         "SecondProgram",
         "Elements",
-        "Button2.json"
+        "btnDelete.json"
       ]
     },
     {
@@ -61,7 +61,7 @@
         "forms",
         "SecondProgram",
         "Elements",
-        "Button3.json"
+        "btnRefresh.json"
       ]
     }
   ],
