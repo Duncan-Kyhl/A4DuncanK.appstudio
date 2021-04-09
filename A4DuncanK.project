@@ -23,14 +23,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "babyNames",
-            "babyNames.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "FirstProgram",
             "FirstProgram.json"
           ]
@@ -41,6 +33,14 @@
             "forms",
             "SecondProgram",
             "SecondProgram.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "babyNames",
+            "babyNames.json"
           ]
         },
         {

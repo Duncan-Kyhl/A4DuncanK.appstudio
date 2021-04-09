@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnFavBabyNames",
-  "left": 176,
+  "left": 162,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 409,
+  "top": 413,
   "value": "See Favorites",
-  "width": 129
+  "width": 137
 }

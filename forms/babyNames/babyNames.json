@@ -16,7 +16,7 @@
         "forms",
         "babyNames",
         "Elements",
-        "btnFavBabyNames.json"
+        "slctNames.json"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "forms",
         "babyNames",
         "Elements",
-        "slctNames.json"
+        "btnFavBabyNames.json"
       ]
     }
   ],
@@ -43,7 +43,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "babyNames.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
