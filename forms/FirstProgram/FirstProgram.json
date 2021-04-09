@@ -36,6 +36,15 @@
         "Elements",
         "lblMessage1.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "FirstProgram",
+        "Elements",
+        "btnNextForm.json"
+      ]
     }
   ],
   "class": "",

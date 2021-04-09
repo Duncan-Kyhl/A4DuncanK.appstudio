@@ -38,3 +38,7 @@ FirstProgram.onshow = function() {
     } else
         lblMessage1.value = "Error code: " + req.status
 }
+
+btnNextForm.onclick=function(){
+  ChangeForm(SecondProgram)
+}
