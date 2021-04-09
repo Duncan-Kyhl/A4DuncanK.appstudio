@@ -23,6 +23,22 @@
           "!type": "External",
           "file": [
             "forms",
+            "babyNames1",
+            "babyNames1.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "favBabyNames",
+            "favBabyNames.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "FirstProgram",
             "FirstProgram.json"
           ]
@@ -33,22 +49,6 @@
             "forms",
             "SecondProgram",
             "SecondProgram.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "babyNames",
-            "babyNames.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "favBabyNames",
-            "favBabyNames.json"
           ]
         }
       ],
@@ -71,7 +71,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "babyNames",
+      "firstform": "babyNames1",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

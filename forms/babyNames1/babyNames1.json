@@ -14,7 +14,16 @@
       "!type": "External",
       "file": [
         "forms",
-        "babyNames",
+        "babyNames1",
+        "Elements",
+        "btnFavNames1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "babyNames1",
         "Elements",
         "slctNames.json"
       ]
@@ -23,9 +32,27 @@
       "!type": "External",
       "file": [
         "forms",
-        "babyNames",
+        "babyNames1",
         "Elements",
-        "btnFavBabyNames.json"
+        "lblDescribe.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "babyNames1",
+        "Elements",
+        "btnAdd.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "babyNames1",
+        "Elements",
+        "lblMessage.json"
       ]
     }
   ],
@@ -35,7 +62,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "babyNames",
+  "id": "babyNames1",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

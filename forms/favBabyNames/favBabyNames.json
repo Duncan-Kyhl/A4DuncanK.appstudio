@@ -54,6 +54,24 @@
         "Elements",
         "imgBaby.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favBabyNames",
+        "Elements",
+        "btnBack.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favBabyNames",
+        "Elements",
+        "btnClearFavorites.json"
+      ]
     }
   ],
   "class": "",
